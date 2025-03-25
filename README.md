@@ -1,1 +1,1 @@
-The code implementation of GZclassifier.
+The code implementation of text classification.
